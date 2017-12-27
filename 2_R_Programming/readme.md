@@ -12,9 +12,9 @@ Link: https://www.coursera.org/learn/r-programming
 | 3 | Loop Functions and Debugging |  |
 | 4 | Simulation & Profiling |  |
 
-| # | Programming Assignment |
+| # | Assignment |
 | --- | --- |
-| 1 |  |
+| 1 | [Project 1](https://github.com/figochin/datasciencecoursera/tree/master/2_R_Programming/Assignment1) |
 | 2 |  |
 | 3 |  |
 | 4 |  |
