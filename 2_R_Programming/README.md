@@ -5,16 +5,15 @@ In this course you will learn how to program in R and how to use R for effective
 
 Link: https://www.coursera.org/learn/r-programming
 
-| # | Sub-Course | Quiz |
-| --- | --- | --- |
-| 1 | Background, Getting Started, and Nuts & Bolts |  |
-| 2 | Programming with R |  |
-| 3 | Loop Functions and Debugging |  |
-| 4 | Simulation & Profiling |  |
+| # | Sub-Course |
+| --- | --- |
+| 1 | Background, Getting Started, and Nuts & Bolts |
+| 2 | Programming with R |
+| 3 | Loop Functions and Debugging |
+| 4 | Simulation & Profiling |
 
 | # | Assignment |
 | --- | --- |
 | 1 | [Project 1](https://github.com/figochin/datasciencecoursera/tree/master/2_R_Programming/Assignment1) |
-| 2 |  |
-| 3 |  |
-| 4 |  |
+| 2 | [Project 2](https://github.com/figochin/datasciencecoursera/tree/master/2_R_Programming/Assignment2) |
+| 3 | [Project 3](https://github.com/figochin/datasciencecoursera/tree/master/2_R_Programming/Assignment3) |
