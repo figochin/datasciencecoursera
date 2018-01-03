@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
@@ -105,7 +105,7 @@ In order to complete this assignment, you must do the following:
 This assignment will be graded via peer assessment.
 
 
-# Programming Assignment 2: Lexical Scoping
+## Programming Assignment 2: Lexical Scoping
 ```R
 ## This is a pair of functions that cache the inverse of a matrix.
 
